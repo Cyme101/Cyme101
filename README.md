@@ -11,6 +11,7 @@ at **Le Wagon** which I graduated in March 2022.
 
 <br>
 
+
 ## 🛠️ Toolbox
 
 <img align="left" alt="HTML" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
@@ -20,10 +21,21 @@ at **Le Wagon** which I graduated in March 2022.
 <img align="left" alt="Ruby" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
 <img align="left" alt="Rails" width="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" />
 <img align="left" alt="Figma" width="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-
+  
 <br>
 
-          
+
+## Get in Touch
+
+<a href="https://www.linkedin.com/in/isabelle-vallerand/">
+  <img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a/>
+<a href="https://medium.com/@isabelle.vall">
+  <img align="left" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+<a/>
+<a href="https://twitter.com/IzabelVall">
+  <img align="left" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+<a/>
           
 
           
