@@ -2,7 +2,7 @@
 
 <br>
 
-Welcome to my profile! Last year I decided to learn to code as a career change. I've enrolled in an intensive 9-week Full-Stack Web Development Bootcamp
+Welcome to my profile! Last year I decided to learn to code as a career change. I've enrolled in an intensive 9 weeks Full-Stack Web Development Bootcamp
 at **Le Wagon** which I graduated in March 2022. 
 
 The Front-end is where I like to challenge myself and create through technology.
