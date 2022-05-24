@@ -13,7 +13,7 @@ I come from a Fashion Design background & I've worked as a Support Analyst for t
 
 - 🎨 I’m working on my portfolio but in the meantime you can find me [**here**](https://troopl.com/isabellevallerand).
 - 📒 I’m learning React through this [**course**](https://www.udemy.com/course/react-the-complete-guide-incl-redux/).
-- ⚡ Fun fact: I am an [*InstaCat*](https://www.instagram.com/ozu.the.cat/) Mom! 🐾
+- ⚡ Fun fact: I am an [*Cat*](https://www.instagram.com/ozu.the.cat/) Mom! 🐾
 
 <br>
 
