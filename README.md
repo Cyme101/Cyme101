@@ -2,17 +2,17 @@
 
 <br>
 
-Welcome to my profile! Last year I decided to learn to code as a career change. I've enrolled in an intensive 9 weeks Full-Stack Web Development Bootcamp
+Welcome to my profile! Last year, I decided to learn to code as a career change. I've enrolled in an intensive 9-weeks long Full-Stack Web Development Bootcamp
 at **Le Wagon** which I graduated in March 2022. 
 
-The Front-end is where I like to challenge myself and create through technology.
+The Front-End is where I like to challenge myself and create through code.
 
 I come from a Fashion Design background & I've worked as a Support Analyst for the past 10 years.
 
 <br>
 
 - 🎨 I’m working on my portfolio but in the meantime you can find me [**here**](https://troopl.com/isabellevallerand).
-- 📒 I’m learning React through this [**course**](https://www.udemy.com/course/react-the-complete-guide-incl-redux/).
+- 📒 I’m learning ReactJS through this [**course**](https://www.udemy.com/course/react-the-complete-guide-incl-redux/).
 - ⚡ Fun fact: I am an [*Cat*](https://www.instagram.com/ozu.the.cat/) Mom! 🐾
 
 <br>
