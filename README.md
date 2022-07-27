@@ -7,7 +7,7 @@ at **Le Wagon** which I graduated in March 2022.
 
 The Front-End is where I like to challenge myself and create through code.
 
-I come from a Fashion Design background, then I challenged myself in the IT industry and became a Support Analyst for the past 10 years.
+I come from a Fashion Design background but I became interested in IT. Over the past 10 years, I've worked as a Support Analyst.
 
 <br>
 
