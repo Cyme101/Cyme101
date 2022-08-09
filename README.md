@@ -13,7 +13,7 @@ I come from a Fashion Design background but I became interested in IT. Over the 
 
 - 🎨 I’m working on my portfolio but in the meantime you can find me [**here**](https://troopl.com/isabellevallerand).
 - 📒 I’m learning ReactJS through this [**course**](https://www.udemy.com/course/react-the-complete-guide-incl-redux/).
-- ⚡ Fun fact: I am an [*Cat*](https://www.instagram.com/ozu.the.cat/) Mom! 🐾
+- ⚡ Fun fact: I am a Cat Mom! 🐾
 
 <br>
 
