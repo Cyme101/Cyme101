@@ -29,6 +29,7 @@ I come from a Fashion Design background but I became interested in IT. Over the 
 <img align="left" alt="Rails" width="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" />
 <img align="left" alt="Figma" width="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <img align="left" alt="VSCode" width="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="left" alt="ReactJS" width="52px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original-wordmark.svg" />
 
 
 <br>
