@@ -11,7 +11,7 @@ I come from a Fashion Design background but I became interested in IT. Over the 
 
 <br>
 
-- 🎨  Built my personal [**portfolio**](https://isabellevall.com) with ReactJS and styled-components.
+- 🎨  Built my personal [**portfolio**](https://isabellevall.com) with React.js and styled-components.
 - 💼  You can also find me on [**TROOPL**](https://troopl.com/isabellevallerand).
 - 📒  Learning ReactJS through this [**course**](https://www.udemy.com/course/react-the-complete-guide-incl-redux).
 - ⚡   Fun fact: I am a Cat Mom! 🐾
