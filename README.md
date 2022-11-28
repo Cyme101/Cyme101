@@ -2,10 +2,9 @@
 
 <br>
 
-Welcome to my profile! Last year, I decided to learn to code as a career change. I've enrolled in an intensive 9-weeks long Full-Stack Web Development Bootcamp
-at **Le Wagon** which I graduated in March 2022. 
+Welcome to my profile! Last year, I decided to learn to code as a career change. I've enrolled in an intensive 10-week long Full-Stack Web Development Bootcamp at **Le Wagon** which I graduated in March 2022. 
 
-The Front-End is where I like to challenge myself and create through code.
+The Front-end is where I like to challenge myself and create through code.
 
 I come from a Fashion Design background but I became interested in IT. Over the past 10 years, I've worked as a Support Analyst.
 
@@ -14,10 +13,10 @@ I come from a Fashion Design background but I became interested in IT. Over the 
 - 🎨  Built my personal [**portfolio**](https://isabellevall.com) with React.js and styled-components.
 - 💼  You can also find me on [**TROOPL**](https://troopl.com/isabellevallerand).
 - 📒  Learning ReactJS through this [**course**](https://www.udemy.com/course/react-the-complete-guide-incl-redux).
+- 📘  Learning PHP for beginners through this [**course**](https://www.udemy.com/course/php-for-complete-beginners-includes-msql-object-oriented).
 - ⚡   Fun fact: I am a Cat Mom! 🐾
 
 <br>
-
 
 ## 🛠️ Toolbox
 
@@ -32,15 +31,12 @@ I come from a Fashion Design background but I became interested in IT. Over the 
 <img align="left" alt="VSCode" width="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="ReactJS" width="52px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" />
 
-
 <br>
 <br>
 <br>
 <br>
-
 
 ## 📇 Get in Touch
-
 
 <a href="https://www.linkedin.com/in/isabelle-vallerand/">
   <img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
