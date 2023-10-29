@@ -19,14 +19,15 @@ Over the past 10 years, I've worked as a Support Analyst.
 ## 🛠️ Toolbox
 
 
-<img align="left" alt="HTML" width="64px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original-wordmark.svg" />
-<img align="left" alt="CSS" width="64px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original-wordmark.svg" />
-<img align="left" alt="JavaScript" width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="HTML" width="64px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS" width="64px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original.svg" />
 <img align="left" alt="ReactJS" width="52px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" />
-<img align="left" alt="Bootstrap" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-<img align="left" alt="Bootstrap" width="56px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-original.svg" />
-<img align="left" alt="Figma" width="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-<img align="left" alt="VSCode" width="52px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="left" alt="Bootstrap" width="56px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bootstrap/bootstrap-original.svg" />
+<img align="left" alt="WordPress" width="56px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/wordpress/wordpress-plain.svg" />
+<img align="left" alt="PHP" width="56px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-original.svg" />
+<img align="left" alt="MySQL" width="56px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original-wordmark.svg" />
+<img align="left" alt="Adobe XD" width="52px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/xd/xd-plain.svg" />
+<img align="left" alt="VSCode" width="52px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg" />
 
 
 <br>
