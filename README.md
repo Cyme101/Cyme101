@@ -4,15 +4,17 @@
 
 Welcome to my profile! Two years ago, I decided to learn to code as a career change. I've enrolled in an intensive 9-week long Full-Stack Web Development Bootcamp at **Le Wagon** which I got my certification in March 2022. 
 
-The Front-End is where I like to challenge myself and create.
+Over the past 10 years, I've worked as a Support Analyst in large companies and that is why I love problem solving.
 
-Over the past 10 years, I've worked as a Support Analyst.
+I love every part and every process related to Web Development & I'm passionnate about what I do.
+
+
 
 <br>
 
 - 🎨  Built my personal [**portfolio**](https://isabellevall.com) with React.js and styled-components.
-- 📒  Learning React JS through this [**course**](https://www.udemy.com/course/react-the-complete-guide-incl-redux).
-- ⚡  Fun fact: I'm a Cat Mom! 🐾
+- 📚  Currently in college studying Web development @ O'Sullivan College in Québec.
+- ⚡  Fun fact: I'm the greatest Cat Mom! 🐾
 
 <br>
 
