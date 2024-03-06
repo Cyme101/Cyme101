@@ -12,7 +12,7 @@ I love every part and every process related to Web Development & I'm passionnate
 
 <br>
 
-- 🎨  Built my personal [**portfolio**](https://isabellevall.com) with React.js and styled-components.
+- 🎨  Built my personal [**portfolio**](https://isabelle.dev) with React.js and styled-components.
 - 📚  Currently in college studying Web development @ O'Sullivan College in Québec. Internship is starting on January 8th 2024.
 - ⚡   Fun fact: I'm the greatest Cat Mom! 🐾
 
