@@ -2,9 +2,9 @@
 
 <br>
 
-Welcome to my profile! Two years ago, I decided to learn to code as a career change. I've enrolled in an intensive 9-week long Full-Stack Web Development Bootcamp at **Le Wagon** which I got my certification in March 2022. 
+Welcome to my profile! Four years ago, I decided to learn to code as a career change. I've enrolled in an intensive 9-weeks long Full-Stack Web Development Bootcamp at **Le Wagon** which I got my certification in March 2022. 
 
-Problem solving is in my DNA, over the past 10 years, I've worked as a Support Analyst in two large companies.
+Problem solving is in my DNA, over the past 10 years, I've worked as a Support Analyst in two large companies in MTL.
 
 I love every part and every process related to Web Development & I'm passionnate about what I do.
 
